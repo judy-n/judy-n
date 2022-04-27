@@ -1,5 +1,7 @@
-### Hi there 👋
-
+### Hi there, I'm Judy 👋
+- ☁️ I'm passionate about front-end web development and UI/UX 
+- 🖥 Currently working on **[Health Kit](https://github.com/JLambertazzo/healthkit)**
+- 🕹 I'm currently learning game design & pixel art
 <!--
 **judy-n/judy-n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
