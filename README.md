@@ -2,7 +2,7 @@
 - ☁️ I'm passionate about web development and UI/UX 
 - 🕹 I'm currently learning game development
 
-[![Judy's GitHub stats](https://github-readme-stats.vercel.app/api?username=judy-n&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Judy's GitHub stats](https://github-readme-stats.vercel.app/api?username=judy-n&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **judy-n/judy-n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
